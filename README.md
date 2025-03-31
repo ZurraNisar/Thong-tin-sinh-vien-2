@@ -119,4 +119,4 @@ Dự án được phân phối dưới giấy phép MIT. Xem file `LICENSE` đ�
 
 ---
 
-_Lưu ý: Đây là dự án học tập, nhằm mục đích thực hành các kỹ năng lập trình Android cơ bản và tương tác với các API hệ thống. Mọi đóng góp và phản hồi đều được chào đón.
+_Lưu ý: Đây là dự án học tập, nhằm mục đích thực hành các kỹ năng lập trình Android cơ bản và tương tác với các API hệ thống. Mọi đóng góp và phản hồi đều được chào đón._
